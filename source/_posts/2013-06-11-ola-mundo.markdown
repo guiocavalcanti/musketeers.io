@@ -4,6 +4,7 @@ title: "Olá Mundo"
 date: 2013-06-11 19:44
 comments: true
 categories:
+author: "Guilherme Cavalcanti"
 ---
 
 Olá,
