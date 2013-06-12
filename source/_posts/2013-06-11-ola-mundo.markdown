@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Olá Mundo"
+date: 2013-06-11 19:44
+comments: true
+categories: Meta
+author: Guilherme Cavalcanti
+---
+
+{% img /images/musketeers.jpg %}
+
+Olá,
+
+este é o Musketeers, ou Mosqueteiros, dependendo da sua língua nativa. Este blog é a realização dos sonhos mais procrastinados de três engenheiros de software de Recife, PE.
+
+Aqui serão postados os aprendizados constantemente incompletos porém não supérfluos adquirido nas nossas vidas empreendedoras. O que isso quer dizer? Bom, para responder esta pergunta, precisamos nos apresentar.
+
+## Juliana
+
+xxx
+
+## Guilherme Cavalcanti
+
+Raízes em desenvolvimento Web client-side e amante de Ruby e linguagens dinâmicas nos dias atuais. Co-fundador da empresa [Redu Educational Technologies](http://redu.com.br). Fascinado por sistemas distribuídos e aplicações baseadas em rede. [Ciclista](http://www.strava.com/athletes/1339443) *for fun and profit*.
+
+- [Github](http://github.com/guiocavalcanti)
+- [Slideshare](http://www.slideshare.net/guiocavalcanti/)
+
+## Tiago
+
+xxx
+
+Agora que nos apresentamos já é possível saber o que virá por aí. Vamos tentar manter o ritmo de um artigo a cada 15 dias e, no futuro, trazer mais colegas para escrever aqui.
+
