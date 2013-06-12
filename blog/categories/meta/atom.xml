@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Meta | Musketeers]]></title>
+  <link href="http://yoursite.com/blog/categories/meta/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2013-06-11T22:59:08-03:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Juliana Lucena, Guilherme Cavalcanti e Tiago Ferreira]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Olá Mundo]]></title>
+    <link href="http://yoursite.com/blog/2013/06/11/ola-mundo/"/>
+    <updated>2013-06-11T19:44:00-03:00</updated>
+    <id>http://yoursite.com/blog/2013/06/11/ola-mundo</id>
+    <content type="html"><![CDATA[<p><img src="/images/musketeers.jpg"></p>
+
+<p>Olá,</p>
+
+<p>este é o Musketeers, ou Mosqueteiros, dependendo da sua língua nativa. Este blog é a realização dos sonhos mais procrastinados de três engenheiros de software de Recife, PE.</p>
+
+<p>Aqui serão postados os aprendizados constantemente incompletos porém não supérfluos adquirido nas nossas vidas empreendedoras. O que isso quer dizer? Bom, para responder esta pergunta, precisamos nos apresentar.</p>
+
+<h2>Juliana</h2>
+
+<p>xxx</p>
+
+<h2>Guilherme Cavalcanti</h2>
+
+<p><img src="/images/guila.jpg"></p>
+
+<p>Raízes em desenvolvimento Web client-side e amante de Ruby e linguagens dinâmicas nos dias atuais. Co-fundador da empresa <a href="http://redu.com.br">Redu Educational Technologies</a>. Fascinado por sistemas distribuídos e aplicações baseadas em rede. <a href="http://www.strava.com/athletes/1339443">Ciclista</a> <em>for fun and profit</em>.</p>
+
+<ul>
+<li><a href="http://github.com/guiocavalcanti">Github</a></li>
+<li><a href="http://www.slideshare.net/guiocavalcanti/">Slideshare</a></li>
+</ul>
+
+
+<h2>Tiago</h2>
+
+<p>xxx</p>
+
+<p>Agora que nos apresentamos já é possível saber o que virá por aí. Vamos tentar manter o ritmo de um artigo a cada 15 dias e, no futuro, trazer mais colegas para escrever aqui.</p>
+]]></content>
+  </entry>
+  
+</feed>

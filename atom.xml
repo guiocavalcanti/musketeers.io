@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Musketeers]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2013-06-11T22:59:08-03:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Juliana Lucena, Guilherme Cavalcanti e Tiago Ferreira]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[blah]]></title>
+    <link href="http://yoursite.com/blog/2013/06/11/blah/"/>
+    <updated>2013-06-11T21:25:00-03:00</updated>
+    <id>http://yoursite.com/blog/2013/06/11/blah</id>
+    <content type="html"><![CDATA[<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="c1"># -*- encoding : utf-8 -*-</span>
+</span><span class='line'><span class="k">module</span> <span class="nn">EnrollmentService</span>
+</span><span class='line'>  <span class="k">class</span> <span class="nc">EnrollmentBulkMapper</span> <span class="o">&lt;</span> <span class="no">BulkMapper</span>
+</span><span class='line'>    <span class="k">def</span> <span class="nf">initialize</span>
+</span><span class='line'>      <span class="n">columns</span> <span class="o">=</span> <span class="o">[</span><span class="ss">:user_id</span><span class="p">,</span> <span class="ss">:subject_id</span><span class="p">,</span> <span class="ss">:role</span><span class="o">]</span>
+</span><span class='line'>      <span class="n">options</span> <span class="o">=</span> <span class="p">{</span> <span class="ss">validate</span><span class="p">:</span> <span class="kp">false</span><span class="p">,</span> <span class="n">on_duplicate_key_update</span><span class="p">:</span> <span class="o">[</span><span class="ss">:role</span><span class="o">]</span> <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'>      <span class="k">super</span> <span class="no">Enrollment</span><span class="p">,</span> <span class="n">columns</span><span class="p">,</span> <span class="n">options</span>
+</span><span class='line'>    <span class="k">end</span>
+</span><span class='line'>  <span class="k">end</span>
+</span><span class='line'><span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Olá Mundo]]></title>
+    <link href="http://yoursite.com/blog/2013/06/11/ola-mundo/"/>
+    <updated>2013-06-11T19:44:00-03:00</updated>
+    <id>http://yoursite.com/blog/2013/06/11/ola-mundo</id>
+    <content type="html"><![CDATA[<p><img src="http://yoursite.com/images/musketeers.jpg"></p>
+
+<p>Olá,</p>
+
+<p>este é o Musketeers, ou Mosqueteiros, dependendo da sua língua nativa. Este blog é a realização dos sonhos mais procrastinados de três engenheiros de software de Recife, PE.</p>
+
+<p>Aqui serão postados os aprendizados constantemente incompletos porém não supérfluos adquirido nas nossas vidas empreendedoras. O que isso quer dizer? Bom, para responder esta pergunta, precisamos nos apresentar.</p>
+
+<h2>Juliana</h2>
+
+<p>xxx</p>
+
+<h2>Guilherme Cavalcanti</h2>
+
+<p><img src="http://yoursite.com/images/guila.jpg"></p>
+
+<p>Raízes em desenvolvimento Web client-side e amante de Ruby e linguagens dinâmicas nos dias atuais. Co-fundador da empresa <a href="http://redu.com.br">Redu Educational Technologies</a>. Fascinado por sistemas distribuídos e aplicações baseadas em rede. <a href="http://www.strava.com/athletes/1339443">Ciclista</a> <em>for fun and profit</em>.</p>
+
+<ul>
+<li><a href="http://github.com/guiocavalcanti">Github</a></li>
+<li><a href="http://www.slideshare.net/guiocavalcanti/">Slideshare</a></li>
+</ul>
+
+
+<h2>Tiago</h2>
+
+<p>xxx</p>
+
+<p>Agora que nos apresentamos já é possível saber o que virá por aí. Vamos tentar manter o ritmo de um artigo a cada 15 dias e, no futuro, trazer mais colegas para escrever aqui.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: oap | Musketeers]]></title>
+  <link href="http://yoursite.com/blog/categories/oap/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2013-06-11T22:59:08-03:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Juliana Lucena, Guilherme Cavalcanti e Tiago Ferreira]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[blah]]></title>
+    <link href="http://yoursite.com/blog/2013/06/11/blah/"/>
+    <updated>2013-06-11T21:25:00-03:00</updated>
+    <id>http://yoursite.com/blog/2013/06/11/blah</id>
+    <content type="html"><![CDATA[<p>```ruby</p>
+
+<h1>&ndash;<em>&ndash; encoding : utf-8 &ndash;</em>&ndash;</h1>
+
+<p>module EnrollmentService
+  class EnrollmentBulkMapper &lt; BulkMapper</p>
+
+<pre><code>def initialize
+  columns = [:user_id, :subject_id, :role]
+  options = { validate: false, on_duplicate_key_update: [:role] }
+
+  super Enrollment, columns, options
+end
+</code></pre>
+
+<p>  end
+end
+```</p>
+]]></content>
+  </entry>
+  
+</feed>
