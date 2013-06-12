@@ -3,9 +3,11 @@ layout: post
 title: "Olá Mundo"
 date: 2013-06-11 19:44
 comments: true
-categories:
+categories: Meta
 author: Guilherme Cavalcanti
 ---
+
+{% img /images/musketeers.jpg %}
 
 Olá,
 
