@@ -4,7 +4,7 @@ title: "Olá Mundo"
 date: 2013-06-11 19:44
 comments: true
 categories: Meta
-author: Guilherme Cavalcanti
+author: [Guilherme Cavalcanti, Tiago Lima]
 ---
 
 {% img /images/musketeers.jpg %}
@@ -26,9 +26,13 @@ Raízes em desenvolvimento Web client-side e amante de Ruby e linguagens dinâmi
 - [Github](http://github.com/guiocavalcanti)
 - [Slideshare](http://www.slideshare.net/guiocavalcanti/)
 
-## Tiago
+## Tiago Lima
 
-xxx
+{% img /images/tiago-redu-photo.jpg %}
+Um desportista frustrado e leitor de livros tardio. Tento abraçar o mundo do conhecimento com as duas mãos, mas só encosto o dedo. Adoro Ruby, banco de dados relacionais e, agora, não-relacionais. Tenho um relacionamento de amor e ódio com desenvolvimento Web client-side. Sócio do [Redu Educational Technologies](http://redu.com.br) e formado em Ciência da Computação pela UFPE/CIn.
+
+- [GitHub](http://github.com/fltiago)
+- [SlideShare](http://www.slideshare.net/TiagoLima8)
+- [Twitter](https://twitter.com/fltiago)
 
 Agora que nos apresentamos já é possível saber o que virá por aí. Vamos tentar manter o ritmo de um artigo a cada 15 dias e, no futuro, trazer mais colegas para escrever aqui.
-
