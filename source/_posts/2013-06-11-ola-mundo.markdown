@@ -13,7 +13,7 @@ Olá,
 
 este é o Musketeers, ou Mosqueteiros, dependendo da sua língua nativa. Este blog é a realização dos sonhos mais procrastinados de três engenheiros de software de Recife, PE.
 
-Aqui serão postados os aprendizados constantemente incompletos, porém não supérfluos adquiridos nas nossas vidas empreendedoras. O que isso quer dizer? Bom, para responder esta pergunta, precisamos nos apresentar.
+Aqui serão postados os aprendizados constantemente incompletos, porém não supérfluos, adquiridos nas nossas vidas empreendedoras. O que isso quer dizer? Bom, para responder esta pergunta, precisamos nos apresentar.
 
 ## Juliana Lucena
 
