@@ -13,11 +13,15 @@ Olá,
 
 este é o Musketeers, ou Mosqueteiros, dependendo da sua língua nativa. Este blog é a realização dos sonhos mais procrastinados de três engenheiros de software de Recife, PE.
 
-Aqui serão postados os aprendizados constantemente incompletos porém não supérfluos adquirido nas nossas vidas empreendedoras. O que isso quer dizer? Bom, para responder esta pergunta, precisamos nos apresentar.
+Aqui serão postados os aprendizados constantemente incompletos, porém não supérfluos adquiridos nas nossas vidas empreendedoras. O que isso quer dizer? Bom, para responder esta pergunta, precisamos nos apresentar.
 
-## Juliana
+## Juliana Lucena
 
-xxx
+Acredito que a solução da Sociedade seja o Conhecimento. Sou encantada por linguagens de programação e pela comunidade Ruby; aos trancos e barrancos aprendi a valorizar e hoje admiro o *client-side*. Ambientes colaborativos e divertidos me movem, é aí que entra o [Redu Educational Technologies](http://redu.com.br) (sou uma das comandantes do barco). Graduei-me em Ciência da Computação pela UFPE – CIn.
+
+- [Github](http://github.com/julianalucena)
+- [LinkedIn](http://br.linkedin.com/in/julianalucena)
+- [Slideshare](http://www.slideshare.net/JulianaLucena)
 
 ## Guilherme Cavalcanti
 
