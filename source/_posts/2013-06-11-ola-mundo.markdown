@@ -32,7 +32,6 @@ Raízes em desenvolvimento Web client-side e amante de Ruby e linguagens dinâmi
 
 ## Tiago Lima
 
-{% img /images/tiago-redu-photo.jpg %}
 Um desportista frustrado e leitor de livros tardio. Tento abraçar o mundo do conhecimento com as duas mãos, mas só encosto o dedo. Adoro Ruby, banco de dados relacionais e, agora, não-relacionais. Tenho um relacionamento de amor e ódio com desenvolvimento Web client-side. Sócio do [Redu Educational Technologies](http://redu.com.br) e formado em Ciência da Computação pela UFPE/CIn.
 
 - [GitHub](http://github.com/fltiago)
